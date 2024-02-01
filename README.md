@@ -8,11 +8,9 @@ The application is implemented in JavaScript.
 To run this application, clone this github repository and open the current directory in which the file is present on Terminal or Vscode.
 
 Run the file in the terminal using the command:
-
-'''
+```bash 
 node getTime.js
-'''
-
+```
 ## Dependencies
 Just Node.Js is enough to run this application. No internal or external libraries/packages are used to process the HTML text. 
 
